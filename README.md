@@ -21,10 +21,8 @@
 
 - 🌱 I’m currently learning **React Native, Elixir, and Python**
 
-- 🤝 I’m looking for help with [Discord Slavy](https://github.com/juanpabloxk/Discord-Slavy-SLF)
-
 - 💬 Ask me about **GNU/Linux, Javascript, Ruby**
 
 - 📫 How to reach me: **juanxk-contact@proton.me**
 
-- ⚡ Fun fact **I really love EDM music 🎛️**
+- ⚡ Fun facts **I really love Videogames and EDM music 🎛️**
